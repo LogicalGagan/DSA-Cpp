@@ -1,2 +1,7 @@
 # DSA-Cpp
-This repository consists all of my solved questions from various platforms like hackerank and leetcode with a proper documentations
+# Hello people
+This repository consists all of my solved questions 
+<br>
+from various platforms like hackerank and leetcode with
+<br>
+ a proper documentations
